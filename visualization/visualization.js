@@ -582,6 +582,7 @@ var DataVisualization = function() {
                 drawUsers(processing);
 
             //debug draw cursors
+            /*
             Object.keys(_debugCursors).forEach(function(c)
             {
                 if(_debugCursors[c] != undefined)
@@ -590,7 +591,7 @@ var DataVisualization = function() {
                     processing.ellipse(_debugCursors[c].x, _debugCursors[c].y, 10, 10);
                 }
             });
-
+*/
 
 
             processing.smooth();

@@ -120,6 +120,12 @@
             client.connect();
 
 
+            $("body").click(function(e){
+                var offset = $(this).offset();
+
+                vis1.addTouch("mouse",e.clientX - offset.left,e.clientY - offset.top);
+            });
+
         }
 
 
