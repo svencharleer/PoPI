@@ -1,7 +1,9 @@
 # PoPI_TestChamber
-Test setup for evaluation of the Position of Participant Indicator (PoPI).
+Test setup for evaluation of the Position of Participant Indicator (PoPI), a glyph design to support collaborative filtering around an interactive tabletop.
 
 Introduces participants with glyph designs. Then draws 2 screens per glyph design for evaluation purposes with a specific task.
+
+Can also be run from http://svencharleer.com/dev/popi/ 
 
 ## Requirements
 2 versions: 
@@ -51,5 +53,5 @@ E.g.
 
 ## Contact
 
-If you wish to run this experiment, or have any questions, contact me at sven.charleer[@]gmail.com.
+If you wish to run this experiment, or have any questions, contact me at sven.charleer [at] gmail.com.
 
